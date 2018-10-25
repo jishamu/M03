@@ -5,5 +5,5 @@ if humedad >= 80:
     
 else:
     print("La humedad es", humedad, "No coges la paragua")
-git remote add origin https://github.com/jishamu/M03.git
+
 
