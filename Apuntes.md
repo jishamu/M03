@@ -26,6 +26,7 @@ Mitjana ponderada és un tipus de mitjana on el pes de l'element tambè té en c
 
 #Llista de distribució proporciona grups de discurssió per a persones que comparteixen  en aquests grups, també permet distribució de la informació a molt usauris.
 Exemplos:
+
   1.Les llista  de correu electrònic són ideals per enviar de forma clara a totes les persones que pertany en el grup.Exemple com la    llista de districió de l'escola.
   
   2.fòrum web permet que els membres del grup utilitzen la interfície d'usuari de Google Groups per interactuar entre ells. Permet la col·laboració i la discussió entre els membres del grup. Un cas d'ús popular per a aquest tipus de grup és la discussió de tasques si és una escola o treballa junts en projectes per a usuaris empresarials.
