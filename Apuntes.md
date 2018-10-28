@@ -33,3 +33,17 @@ Exemplos:
   3. Q + A Forum està dissenyat per permetre la discussió sobre preguntes específiques.Exemple Quora
   
   4. L'entrada col·laborativa S'utilitza per a una discussió més lleugera entre tota l'organització, com una sala de xat.
+  
+  #Count:En excel només conta les cel-les que contene numeros.
+  #Counta:En excel conta les cel-les que no estar buit
+  #Dateif: Serveix per calcular el nombres de diee, nombre de dies, messos, o anys.
+  
+  *PERCENTATGE
+  #Larga: 77.(25/100)
+  #Corta: 77. 0'25
+  
+*DIA SENSE IVA
+PN.1 + (PN.0,21)=PVP
+PN (1+0,21)=PVP
+PN.1,21=PVP
+PN=PVP/1,21
