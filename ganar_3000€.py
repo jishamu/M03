@@ -15,7 +15,7 @@ M01=int(input("Cuantos has sacado:"))
 M02=int(input("Cuantos has sacado:"))
 M03=int(input("Cuantos has sacado:"))
 M05=int(input("Cuantos has sacado:"))
-if((M01==9)and(M02==10)and(M03==8)and((M05==6)and(M05<=8))):
+if((estudiar=="mucho")and(M01==9)and(M02==10)and(M03==8)and((M05==6)and(M05<=8))):
 	print ("Puedes ganar 3000€ al mes")
 ponderada=(M01**0.3)+(M02**0.4)+(M03**0.25)+(M05**0.05)
 if (ponderada>=8):
