@@ -1,5 +1,4 @@
-
-#coding uft·8
+# coding: utf­8
 loteria=input ("te ha tocado loteria:")
 if (loteria=="si"):
   print("Puedes ganar 3000€ al mes")
