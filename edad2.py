@@ -1,3 +1,4 @@
+# coding: utf­8
 edad=int(input("Indica tu edad:"))
 if((edad>=18)and(edad<=23)):
     print("Con", edad, "puedes entrar en la sesión de jóvenes")
