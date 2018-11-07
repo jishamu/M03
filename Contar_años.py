@@ -1,4 +1,4 @@
-
+# coding: utf­8
 anyo_actual=int(input("En que año estamos:"))
 2	anyo_cualquiera=int(input("Dime cualquier año:"))
 3	if (anyo_actual==anyo_cualquiera):
