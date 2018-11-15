@@ -6,7 +6,7 @@
      2                     1               numero 1 es gran que numero 2
      
 numero1=int(input())
-numero1=int(input())
+numero2=int(input())
 if (numero1>numero2):
    print(numero1, "es gran que", numero2)
 else:
