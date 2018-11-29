@@ -1,14 +1,10 @@
-| DECIMAL | BINARI          | HEXADECIMAL | OCTAL |
-| ------- | --------------- | ----------- | ----- |
-| 4       |                 |             |       |
-|         | 1 0 1 0 1 0 1 0 |             |       |
-|         |                 | ABCD        |       |
-|         |                 |             | 754   |
-| 127     |                 |             |       |
-|         | 1 0 0 0 0 0 0 0 |             |       |
-|         |                 | 1           |       |
-|         |                 |             | 6     |
-| 64      |                 |             |       |
-|         | 1 0 0 1 1 1 1 1 |             |       |
-|         |                 | c074        |       |
-|         |                 |             | 606   |
+| dividendo  |  divisor   |                 resultado                       |
+| ---------  | ---------- | -----------------------------------------       | 
+|    4       |      2     | La división es exacta. Cociente: 2              |   
+|    2       |      4     | La división no es exacta. Cociente: 0 Resto: 2  |       
+|   -4       |     -2     | La división es exacta. Cociente: 2              |
+|   -2       |     -4     | La división no es exacta. Cociente: 0 Resto: -2 | 
+|    4       |      4     | La división es exacta. Cociente: 1              |   
+|    4       |      0     | No se puede                                     | 
+|    0       |      4     | No se puede                                     |    
+|    0       |      0     | No se puede                                     | 
