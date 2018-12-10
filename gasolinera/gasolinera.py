@@ -18,15 +18,15 @@ if ((gasolinera>= 1) and (gasolinera <=6)):
         litros = float(input("Indiqe cuantos litros quieres: "))
     if gasolinera == 1:
         print (" Usted ha escogido " , litros," litros de " , menu [0][1], " con un valor de ","{0:.3f}".format(litros* menu [0][2]),"€",sep="")
-    if gas == 2:
+    if gasolinera == 2:
         print (" Usted ha escogido " , litros," litros de " , menu[1][1], " con un valor de ","{0:.3f}".format(litros*  menu [1][2]),"€",sep="")
-    if gas == 3:
+    if gasolinera  == 3:
         print (" Usted ha escogido " , litros," litros de " , menu [2][1], " con un valor de ","{0:.3f}".format(litros* menu [2][2]),"€",sep="")
-    if gas == 4:
+    if gasolinera  == 4:
         print (" Usted ha escogido " , litros," litros de " , menu [3][1], " con un valor de ","{0:.3f}".format(litros* menu [3][2]),"€",sep="")
-    if gas == 5:
+    if gasolinera  == 5:
         print (" Usted ha escogido " , litros," litros de " , menu [4][1], " con un valor de ","{0:.3f}".format(litros* menu [4][2]),"€",sep="")
-    if gas == 6:
+    if gasolinera  == 6:
         print (" Usted ha escogido " , litros," litros de " , menu [5][1], " con un valor de ","{0:.3f}".format(litros* menu [5][2]),"€",sep="")
 
 print('Total recaudado = %d' %total)
